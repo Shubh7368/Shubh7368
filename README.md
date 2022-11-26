@@ -1,4 +1,4 @@
-<img style="width:500px;" src="https://www.wingstechsolutions.com/wp-content/uploads/2022/03/full-stack-development.gif" alt="img gif"/>
+<img style="width:100%;" src="https://www.wingstechsolutions.com/wp-content/uploads/2022/03/full-stack-development.gif" alt="img gif"/>
 <h1 align="center">Hi 👋, I'm Shubham Adhane</h1>
 <h3 align="center">Full stack Web Developer</h3>
 
