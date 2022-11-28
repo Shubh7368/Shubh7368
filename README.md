@@ -1,6 +1,6 @@
 <img style="width:100%;" src="https://www.wingstechsolutions.com/wp-content/uploads/2022/03/full-stack-development.gif" alt="img gif"/>
 <h1 align="center">Hi 👋, I'm Shubham Adhane</h1>
-<h3 align="center">Full stack Web Developer</h3>
+<h3 align="center">A dedicated Full-Stack Developer who designs user-friendly user interfaces for web applications. Always a learner.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shubh7368&label=Profile%20views&color=0e75b6&style=flat" alt="shubh7368" /> </p>
 
