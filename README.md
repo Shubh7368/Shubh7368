@@ -6,7 +6,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shubh7368" alt="shubh7368" /></a> </p>
 
-- 🌱 I’m currently learning **MySQL **
+- 🌱 I’m currently learning **MySQL and Mongodb **
 
 - 💬 Ask me about **HTML CSS JavaScript React Redux and TypeScript**
 
